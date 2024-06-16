@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ahmadfares029/Ps99-smoke-dead-hub-script/main/Hub'))()
